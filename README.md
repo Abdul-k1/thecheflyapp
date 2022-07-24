@@ -10,7 +10,6 @@ See Screenshot below:
 
 ![Splashscreen](https://github.com/Abdul-k1/thecheflyapp/blob/master/assets/SplashScreen.png)
 
-<img src="https://github.com/Abdul-k1/thecheflyapp/blob/master/assets/SplashScreen.png" width=480 height=600>
 
 A few resources to get you started if this is your first Flutter project:
 
