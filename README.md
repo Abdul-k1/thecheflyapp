@@ -8,7 +8,7 @@ The UI of this application was designed using Adobe Xd
 
 See Screenshot below:
 
-![Splashscreen](https://github.com/Abdul-k1/thecheflyapp/blob/master/assets/SplashScreen.png)
+![Splashscreen](https://github.com/Abdul-k1/thecheflyapp/blob/master/assets/SplashScreen.png) ![GetStarted](https://github.com/Abdul-k1/thecheflyapp/blob/master/assets/Get%20Started.png)
 
 
 A few resources to get you started if this is your first Flutter project:
