@@ -7,7 +7,7 @@ A Flutter application  that makes use of the Yummly (https://rapidapi.com/apidoj
 The UI of this application was designed using Adobe Xd
 
 See Screenshot below:
-![AWER!](https://drive.google.com/file/d/1JO5FAVtS8hGJWRXAN8PPW5F_zM5sZV8P/view?usp=sharing)
+![AWER!](https://github.com/Abdul-k1/thecheflyapp/blob/master/assets/Get%20Started.png)
 
 
 A few resources to get you started if this is your first Flutter project:
