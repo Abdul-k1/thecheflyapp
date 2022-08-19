@@ -1,6 +1,6 @@
 # thechefly_app
 
-A Flutter application  that makes use of the Yummly (https://rapidapi.com/apidojo/api/yummly2/) API to get the list of different recipes around the world.
+A Flutter application built using the [Yummly](https://rapidapi.com/apidojo/api/yummly2/) API to get the list of different recipes around the world.
 
 ## Getting Started
 
